@@ -1,0 +1,27 @@
+body {
+    background-color: #1d2029; 
+    color: #fff; 
+}
+.navbar {
+    background-color: #000; 
+}
+
+.login-form {
+    width: 300px;
+}
+.error-message {
+    color: red;
+}
+
+
+.custom-card {
+    background-color: #8e8e8e; 
+    border: 1px solid #ccc; 
+}
+.product-details {
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
